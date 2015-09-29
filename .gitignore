@@ -1,0 +1,9 @@
+**/packages
+**/cache
+pubspec.lock
+.pub/
+.DS_Store
+data/repos/
+**/build
+.packages
+.idea/
